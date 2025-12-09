@@ -31,5 +31,12 @@ python IEET_CG_SCRIPT.py IEET_score_list_108520_3.xlsx
 
 #輸出資料夾: IEET_OUTPUT_IEET_score_list_108520_3/
 
+![執行範例圖](data/DEMO1.png)
+![輸出檔案範例圖](data/DEMO2.png)
+
 4. 手動填寫IEET文件其他欄位
+
+![輸出文件範例圖](data/DEMO3.png)
+
+
 
