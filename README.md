@@ -5,10 +5,10 @@ Generate IEET documents from iLearn Grade Report
 pip install pandas numpy python-docx openpyxl
 
 2. 
-##iLearn匯出成績excel檔 (這個通常不會有問題)，
-##Moodle用複製貼上產生excel檔 ，
+#iLearn匯出成績excel檔 (這個通常不會有問題)，
+#Moodle用複製貼上產生excel檔 ，
 
-##Excel格式參考範例:
+#Excel格式參考範例:
 IEET_score_list_108520_3.xlsx (注意紅字部分)
 
 3. 編輯適當欄位，執行
