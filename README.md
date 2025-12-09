@@ -18,6 +18,8 @@ pip install pandas numpy python-docx openpyxl
 #Moodle匯出成績Excel檔
 （Moodle用複製貼上產生Excel檔）
 
+#注意: 本工具會自動依照**作業項目名稱**分成 **種類**，例如：**期中考**，**期末考**，**期末報告** 等。
+
 #Excel格式參考範例:
 IEET_score_list_108520_3.xlsx (注意紅字部分)
 
