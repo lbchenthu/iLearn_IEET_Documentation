@@ -3,6 +3,8 @@ Markdown
 # iLearn_IEET_Documentation
 Generate IEET documents from iLearn Grade Report
 
+This tool assists users in creating IEET documents directly from their iLearn grade reports.
+
 1. 安裝相關套件 (Python 3.9)
 ```bash
 pip install pandas numpy python-docx openpyxl
