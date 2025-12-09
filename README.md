@@ -35,7 +35,7 @@ python IEET_CG_SCRIPT.py IEET_score_list_108520_3.xlsx
 ![輸出檔案範例圖](data/DEMO2.png)
 
 4. 手動填寫IEET文件其他欄位
-
+(DEMO文件全部成績80分，無法呈現分段)
 ![輸出文件範例圖](data/DEMO3.png)
 
 
